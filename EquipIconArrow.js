@@ -4,9 +4,7 @@
 
 /*:
  * @plugindesc Change Equip right arrow to up/down icon instead of just "->".
- * @author Zeon013
- *
- * @help Credit me as Zeon013 instead of Mirai.
+ * @author Mirai
  * 
  * @param Icon Up
  * @desc The Icon Index that will be used when the new value is greater than the current value.
