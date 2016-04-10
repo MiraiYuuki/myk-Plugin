@@ -4,7 +4,7 @@
 
 /*:
  * @plugindesc Adds exit command in the title screen and Game End menu.
- * @author Zeon013
+ * @author Mirai
  *
  * @help This plugin is plug and play.
  */
