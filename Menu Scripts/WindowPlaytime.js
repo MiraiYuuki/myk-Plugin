@@ -10,6 +10,7 @@
 
 
 Scene_Menu.prototype.update = function(){
+	this.updateChildren();
 	this._playtimeWindow.refresh();
 };
 
