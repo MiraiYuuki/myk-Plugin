@@ -6,6 +6,8 @@
  * @plugindesc Adds custom background to your menu.
  * @author Mirai
  *
+ * @help Place the file under img/system.
+ *
  * @param Filename
  * @desc Change the file name of the background.
  * Change the value to 'default' to erase the background.
